@@ -27,21 +27,21 @@
 
 ### 🏁 Start Screen
 
-![Start Interface](assets/v1 (1).png)  
+![Start Interface](assets/v1.png)  
 *Launch the game and get ready to merge mangoes.*
 
 ---
 
 ### 🕹️ Gameplay Window
 
-![Game Interface](assets/v1 (2).png)  
+![Game Interface](assets/v2.png)  
 *Merge matching mangoes to climb the score ladder before time runs out.*
 
 ---
 
 ### 🏆 Result Screen
 
-![Result Interface](assets/v1 (3).png)  
+![Result Interface](assets/v3.png)  
 *Your final score is displayed with a clean summary.*
 
 ---
